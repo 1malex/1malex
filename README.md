@@ -1,5 +1,5 @@
 ### Hey 1'm Alex 👋
-## I'm an aspiring ML and AI engineer
+#### I'm an aspiring ML and AI engineer
 
 <!--
 **1malex/1malex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
